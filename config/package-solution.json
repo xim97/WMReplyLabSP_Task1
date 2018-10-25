@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "wm-reply-lab-sp-task-1-client-side-solution",
+    "id": "88042df0-9af9-4fb5-a294-5fa02d1c2c83",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/wm-reply-lab-sp-task-1.sppkg"
+  }
+}

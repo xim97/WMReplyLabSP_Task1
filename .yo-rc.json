@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "wm-reply-lab-sp-task-1",
+    "libraryId": "88042df0-9af9-4fb5-a294-5fa02d1c2c83",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
