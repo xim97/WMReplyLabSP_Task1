@@ -3,8 +3,8 @@
     "isCreatingSolution": true,
     "environment": "spo",
     "version": "1.6.0",
-    "libraryName": "wm-reply-lab-sp-task-1",
-    "libraryId": "88042df0-9af9-4fb5-a294-5fa02d1c2c83",
+    "libraryName": "promotions",
+    "libraryId": "c8d55e4c-9eb7-4bbd-8f7c-3e8268e1c230",
     "packageManager": "npm",
     "componentType": "webpart"
   }

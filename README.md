@@ -1,4 +1,4 @@
-## wm-reply-lab-sp-task-1
+## promotions
 
 This is where you include your WebPart documentation.
 
